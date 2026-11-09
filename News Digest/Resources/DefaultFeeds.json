@@ -1,0 +1,107 @@
+[
+  {
+    "id": "00000000-0000-0000-0000-000000000001",
+    "name": "ABC News Top Stories",
+    "url": "https://abcnews.go.com/abcnews/topstories",
+    "category": "top_news",
+    "isEnabled": true
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000002",
+    "name": "CBS News",
+    "url": "https://www.cbsnews.com/latest/rss/main",
+    "category": "top_news",
+    "isEnabled": true
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000003",
+    "name": "BBC World News",
+    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "category": "top_news",
+    "isEnabled": true
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000004",
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/feed",
+    "category": "tech",
+    "isEnabled": true
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000005",
+    "name": "The Verge",
+    "url": "https://www.theverge.com/rss/index.xml",
+    "category": "tech",
+    "isEnabled": true
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000006",
+    "name": "Ars Technica",
+    "url": "https://feeds.arstechnica.com/arstechnica/index",
+    "category": "tech",
+    "isEnabled": true
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000007",
+    "name": "Google Research Blog",
+    "url": "https://research.google/blog/rss",
+    "category": "ai",
+    "isEnabled": true
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000008",
+    "name": "MarkTechPost",
+    "url": "https://www.marktechpost.com/feed",
+    "category": "ai",
+    "isEnabled": true
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000009",
+    "name": "AI Business",
+    "url": "https://aibusiness.com/rss.xml",
+    "category": "ai",
+    "isEnabled": true
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000010",
+    "name": "SlashFilm",
+    "url": "https://www.slashfilm.com/feed/",
+    "category": "film_tv",
+    "isEnabled": true
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000011",
+    "name": "The Playlist",
+    "url": "https://theplaylist.net/feed",
+    "category": "film_tv",
+    "isEnabled": true
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000012",
+    "name": "CinemaBlend",
+    "url": "https://www.cinemablend.com/rss_all.xml",
+    "category": "film_tv",
+    "isEnabled": true
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000013",
+    "name": "The New York Times",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+    "category": "us_politics",
+    "isEnabled": true
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000014",
+    "name": "POLITICO",
+    "url": "https://www.politico.com/rss/politics.xml",
+    "category": "us_politics",
+    "isEnabled": true
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000015",
+    "name": "The Hill",
+    "url": "https://thehill.com/feed/",
+    "category": "us_politics",
+    "isEnabled": true
+  }
+]
