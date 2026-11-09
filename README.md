@@ -1,5 +1,7 @@
 # News Digest
 
+[![CI](https://github.com/hughtures/NewsDigestApp/actions/workflows/ci.yml/badge.svg)](https://github.com/hughtures/NewsDigestApp/actions/workflows/ci.yml)
+
 A native macOS menu bar app that reads your favorite RSS feeds every morning and has **Claude** write a short, de-duplicated news digest you can read in one glance.
 
 <p align="center">
