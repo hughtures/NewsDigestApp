@@ -120,3 +120,7 @@ The script produces an *unsigned-by-Developer-ID* build. To distribute to others
 ## Credits
 
 Built with SwiftUI and AppKit; summaries by Claude (Anthropic); icons from SF Symbols.
+
+## License
+
+[MIT](LICENSE)
